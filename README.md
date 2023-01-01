@@ -1,7 +1,7 @@
 # <a href="https://spotify-clone-js.netlify.app">Spotify-Mini</a>
 
 <br>
-<img src ="readme_assets/spotify.png"></img>
+<img src ="readme_assets/spotify-mini.png"></img>
 <br>
 <br>
 
